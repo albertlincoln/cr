@@ -1,0 +1,214 @@
+m1:src all$ node leetcode/carrace/1.js 
+car0 start!
+car1 start!
+car2 start!
+car3 start!
+car4 start!
+car5 start!
+car6 start!
+car7 start!
+car8 start!
+car9 start!
+car2 still driving and has passed sensor 1
+car8 still driving and has passed sensor 1
+car2 still driving and has passed sensor 2
+car8 still driving and has passed sensor 2
+car2 still driving and has passed sensor 3
+car8 still driving and has passed sensor 3
+car2 still driving and has passed sensor 4
+car8 still driving and has passed sensor 4
+car2 still driving and has passed sensor 5
+car8 still driving and has passed sensor 5
+car2 still driving and has passed sensor 6
+car8 still driving and has passed sensor 6
+car2 still driving and has passed sensor 7
+car8 still driving and has passed sensor 7
+car2 still driving and has passed sensor 8
+car8 still driving and has passed sensor 8
+car2 still driving and has passed sensor 9
+car8 still driving and has passed sensor 9
+car9 still driving and has passed sensor 1
+car7 still driving and has passed sensor 1
+car6 still driving and has passed sensor 1
+car5 still driving and has passed sensor 1
+car4 still driving and has passed sensor 1
+car9 still driving and has passed sensor 2
+car3 still driving and has passed sensor 1
+car7 still driving and has passed sensor 2
+car6 still driving and has passed sensor 2
+car9 still driving and has passed sensor 3
+car5 still driving and has passed sensor 2
+car7 still driving and has passed sensor 3
+car4 still driving and has passed sensor 2
+car9 still driving and has passed sensor 4
+car6 still driving and has passed sensor 3
+car1 still driving and has passed sensor 1
+car3 still driving and has passed sensor 2
+car5 still driving and has passed sensor 3
+car9 still driving and has passed sensor 5
+car7 still driving and has passed sensor 4
+car6 still driving and has passed sensor 4
+car4 still driving and has passed sensor 3
+car9 still driving and has passed sensor 6
+car7 still driving and has passed sensor 5
+car5 still driving and has passed sensor 4
+car9 still driving and has passed sensor 7
+car6 still driving and has passed sensor 5
+car3 still driving and has passed sensor 3
+car7 still driving and has passed sensor 6
+car4 still driving and has passed sensor 4
+car9 still driving and has passed sensor 8
+car5 still driving and has passed sensor 5
+car6 still driving and has passed sensor 6
+car7 still driving and has passed sensor 7
+car9 still driving and has passed sensor 9
+car0 still driving and has passed sensor 1
+car1 still driving and has passed sensor 2
+car3 still driving and has passed sensor 4
+car5 still driving and has passed sensor 6
+car4 still driving and has passed sensor 5
+car6 still driving and has passed sensor 7
+car7 still driving and has passed sensor 8
+car7 still driving and has passed sensor 9
+car6 still driving and has passed sensor 8
+car5 still driving and has passed sensor 7
+car4 still driving and has passed sensor 6
+car3 still driving and has passed sensor 5
+car6 still driving and has passed sensor 9
+car5 still driving and has passed sensor 8
+car4 still driving and has passed sensor 7
+car1 still driving and has passed sensor 3
+car3 still driving and has passed sensor 6
+car5 still driving and has passed sensor 9
+car4 still driving and has passed sensor 8
+car3 still driving and has passed sensor 7
+car4 still driving and has passed sensor 9
+car0 still driving and has passed sensor 2
+car1 still driving and has passed sensor 4
+car3 still driving and has passed sensor 8
+car3 still driving and has passed sensor 9
+car1 still driving and has passed sensor 5
+car0 still driving and has passed sensor 3
+car1 still driving and has passed sensor 6
+car1 still driving and has passed sensor 7
+car0 still driving and has passed sensor 4
+car1 still driving and has passed sensor 8
+car0 still driving and has passed sensor 5
+car0 still driving and has passed sensor 6
+car0 still driving and has passed sensor 7
+car0 still driving and has passed sensor 8
+car0 still driving and has passed sensor 9
+car1 still driving and has passed sensor 9
+ok
+[
+  {
+    name: 'sensor0',
+    distanceFromLastWayPoint: 0,
+    carsWhichDrovePast: [
+      'car0', 'car1',
+      'car2', 'car3',
+      'car4', 'car5',
+      'car6', 'car7',
+      'car8', 'car9'
+    ]
+  },
+  {
+    name: 'sensor1',
+    distanceFromLastWayPoint: 1000,
+    carsWhichDrovePast: [
+      'car2', 'car8',
+      'car9', 'car7',
+      'car6', 'car5',
+      'car4', 'car3',
+      'car1', 'car0'
+    ]
+  },
+  {
+    name: 'sensor2',
+    distanceFromLastWayPoint: 1000,
+    carsWhichDrovePast: [
+      'car2', 'car8',
+      'car9', 'car7',
+      'car6', 'car5',
+      'car4', 'car3',
+      'car1', 'car0'
+    ]
+  },
+  {
+    name: 'sensor3',
+    distanceFromLastWayPoint: 1000,
+    carsWhichDrovePast: [
+      'car2', 'car8',
+      'car9', 'car7',
+      'car6', 'car5',
+      'car4', 'car3',
+      'car1', 'car0'
+    ]
+  },
+  {
+    name: 'sensor4',
+    distanceFromLastWayPoint: 1000,
+    carsWhichDrovePast: [
+      'car2', 'car8',
+      'car9', 'car7',
+      'car6', 'car5',
+      'car4', 'car3',
+      'car1', 'car0'
+    ]
+  },
+  {
+    name: 'sensor5',
+    distanceFromLastWayPoint: 1000,
+    carsWhichDrovePast: [
+      'car2', 'car8',
+      'car9', 'car7',
+      'car6', 'car5',
+      'car4', 'car3',
+      'car1', 'car0'
+    ]
+  },
+  {
+    name: 'sensor6',
+    distanceFromLastWayPoint: 1000,
+    carsWhichDrovePast: [
+      'car2', 'car8',
+      'car9', 'car7',
+      'car6', 'car5',
+      'car4', 'car3',
+      'car1', 'car0'
+    ]
+  },
+  {
+    name: 'sensor7',
+    distanceFromLastWayPoint: 1000,
+    carsWhichDrovePast: [
+      'car2', 'car8',
+      'car9', 'car7',
+      'car6', 'car5',
+      'car4', 'car3',
+      'car1', 'car0'
+    ]
+  },
+  {
+    name: 'sensor8',
+    distanceFromLastWayPoint: 1000,
+    carsWhichDrovePast: [
+      'car2', 'car8',
+      'car9', 'car7',
+      'car6', 'car5',
+      'car4', 'car3',
+      'car1', 'car0'
+    ]
+  },
+  {
+    name: 'sensor9',
+    distanceFromLastWayPoint: 1000,
+    carsWhichDrovePast: [
+      'car2', 'car8',
+      'car9', 'car7',
+      'car6', 'car5',
+      'car4', 'car3',
+      'car0', 'car1'
+    ]
+  }
+]
